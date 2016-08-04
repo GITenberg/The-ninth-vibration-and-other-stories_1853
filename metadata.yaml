@@ -1,0 +1,35 @@
+_repo: The-ninth-vibration-and-other-stories_1853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beck, L. Adams (Lily Adams)
+    aliases:
+    - Beck, Lily Moresby Adams
+    - Beck, Eliza Louisa Moresby
+    - Barrington, E.
+    deathdate: 1931
+    gutenberg_agent_id: '726'
+    url: http://www.gutenberg.org/2009/agents/726
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Louisa_Moresby
+description: ''
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'The ninth vibration -- The interpreter: a romance of the east --
+  The incomparable lady: a story of China with a moral -- The hatred of the queen:
+  a story of Burma -- Fire of beauty -- The building of the Taj Mahal -- "How great
+  is the glory of Kwannon!": a Japanese story -- The round-faced beauty: a story of
+  the Chinese court.'
+title: The ninth vibration and other stories
+url: http://www.gutenberg.org/ebooks/1853
